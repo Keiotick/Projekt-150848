@@ -1,0 +1,11 @@
+C:\Users\Cersh\source\repos\projekttest\projekttest\bin\Debug\netcoreapp3.0\projekttest.exe
+C:\Users\Cersh\source\repos\projekttest\projekttest\bin\Debug\netcoreapp3.0\projekttest.deps.json
+C:\Users\Cersh\source\repos\projekttest\projekttest\bin\Debug\netcoreapp3.0\projekttest.runtimeconfig.json
+C:\Users\Cersh\source\repos\projekttest\projekttest\bin\Debug\netcoreapp3.0\projekttest.runtimeconfig.dev.json
+C:\Users\Cersh\source\repos\projekttest\projekttest\bin\Debug\netcoreapp3.0\projekttest.dll
+C:\Users\Cersh\source\repos\projekttest\projekttest\bin\Debug\netcoreapp3.0\projekttest.pdb
+C:\Users\Cersh\source\repos\projekttest\projekttest\obj\Debug\netcoreapp3.0\projekttest.AssemblyInfoInputs.cache
+C:\Users\Cersh\source\repos\projekttest\projekttest\obj\Debug\netcoreapp3.0\projekttest.AssemblyInfo.cs
+C:\Users\Cersh\source\repos\projekttest\projekttest\obj\Debug\netcoreapp3.0\projekttest.dll
+C:\Users\Cersh\source\repos\projekttest\projekttest\obj\Debug\netcoreapp3.0\projekttest.pdb
+C:\Users\Cersh\source\repos\projekttest\projekttest\obj\Debug\netcoreapp3.0\projekttest.csprojAssemblyReference.cache
